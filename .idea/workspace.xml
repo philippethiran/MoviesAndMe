@@ -22,10 +22,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da016b1-c539-4717-b51c-a21e47fce4c7" name="Default Changelist" comment="New commit: API">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Search.js" afterDir="false" />
-    </list>
+    <list default="true" id="5da016b1-c539-4717-b51c-a21e47fce4c7" name="Default Changelist" comment="FINAL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,11 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599552375972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FINAL">
+      <created>1599566531432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599566531432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New commit" />
     <MESSAGE value="New commit: API" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit: API" />
+    <MESSAGE value="FINAL" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL" />
   </component>
   <component name="WindowStateProjectService">
     <state x="812" y="389" key="Github.ShareDialog" timestamp="1599546981656">
@@ -157,11 +167,12 @@
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state x="458" y="124" key="SettingsEditor/0.23.1792.1024@0.23.1792.1024" timestamp="1599546741524" />
-    <state x="530" y="225" key="Vcs.Push.Dialog.v2" timestamp="1599547881846">
-      <screen x="0" y="23" width="1792" height="1026" />
+    <state x="530" y="226" key="Vcs.Push.Dialog.v2" timestamp="1599566688137">
+      <screen x="0" y="23" width="1792" height="1030" />
     </state>
     <state x="530" y="225" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1599547061304" />
     <state x="530" y="225" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1599547881846" />
+    <state x="530" y="226" key="Vcs.Push.Dialog.v2/0.23.1792.1030@0.23.1792.1030" timestamp="1599566688137" />
     <state x="0" y="292" key="new project wizard" timestamp="1599493862122">
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
