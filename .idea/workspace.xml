@@ -22,10 +22,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da016b1-c539-4717-b51c-a21e47fce4c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Components/Search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Helpers/filmsData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+    <list default="true" id="5da016b1-c539-4717-b51c-a21e47fce4c7" name="Default Changelist" comment="New commit">
+      <change afterPath="$PROJECT_DIR$/Components/FilmItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMDBApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helpers/filmsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/Helpers/filmsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +50,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -65,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1599492665987</updated>
     </task>
+    <task id="LOCAL-00001" summary="New commit">
+      <created>1599547876272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599547876272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +111,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="BEK_SORT_TYPE" value="1" />
               <option name="FILTERS">
                 <map>
@@ -119,7 +140,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="812" y="389" key="Github.ShareDialog" timestamp="1599546981656">
@@ -130,10 +152,11 @@
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state x="458" y="124" key="SettingsEditor/0.23.1792.1024@0.23.1792.1024" timestamp="1599546741524" />
-    <state x="530" y="225" key="Vcs.Push.Dialog.v2" timestamp="1599547061304">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="530" y="225" key="Vcs.Push.Dialog.v2" timestamp="1599547881846">
+      <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="530" y="225" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1599547061304" />
+    <state x="530" y="225" key="Vcs.Push.Dialog.v2/0.23.1792.1026@0.23.1792.1026" timestamp="1599547881846" />
     <state x="0" y="292" key="new project wizard" timestamp="1599493862122">
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
